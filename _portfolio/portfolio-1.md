@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 ![Space Vampires talk](spacevampires.pdf)
+
+<a href="spacevampires.pdf" class="image fit"><img src="count.png" alt=""></a>
