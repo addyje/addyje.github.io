@@ -4,6 +4,6 @@ excerpt: "A 20 minute talk I gave on detecting vampires in space. <br/><img src=
 collection: portfolio
 ---
 
-![Space Vampires talk](spacevampires.pdf)
 
-<a href="spacevampires.pdf" class="image fit"><img src="count.png" alt=""></a>
+<embed src="spacevampire.pdf" width="500" height="375" 
+ type="application/pdf">
