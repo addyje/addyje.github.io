@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 
-<a href="spacevampires.pdf" class="image fit"><img src="title_sv.png" alt=""></a>
+<p><a href="spacevampires.pdf" class="button primary large" style="background-color:#A99653" target='_blank'><font color="#000">Prospects for Detection of Space Vampires</font></a></p>
