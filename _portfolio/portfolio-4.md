@@ -1,6 +1,6 @@
 ---
-title: "Circus Celestia"
-excerpt: "<br/><img src='/images/hst.jpeg'>"
+title: "Circus Celestia, <i>script</i>"
+excerpt: ""
 collection: portfolio
 ---
 

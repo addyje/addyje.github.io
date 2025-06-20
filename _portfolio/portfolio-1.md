@@ -1,6 +1,6 @@
 ---
-title: "Prospects for Detection of Space Vampires"
-excerpt: "<br/><img src='/images/sv_title.png'>"
+title: "Prospects for Detection of Space Vampires, <i>talk slides</i>"
+excerpt: ""
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Measuring the mass of the Milky Way's supermassive black hole"
-excerpt: "<br/><img src='/images/linreg.png'>"
+title: "Measuring the mass of the Milky Way's supermassive black hole, <i>jupyter notebooks</i>"
+excerpt: ""
 collection: portfolio
 ---
 

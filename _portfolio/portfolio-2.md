@@ -1,6 +1,6 @@
 ---
-title: "Millisecond Pulsars: Celestial Lighthouses & Cosmic Timekeepers"
-excerpt: "<br/><img src='/images/msptile.png'>"
+title: "Millisecond Pulsars: Celestial Lighthouses & Cosmic Timekeepers, <i>essay</i>"
+excerpt: ""
 collection: portfolio
 ---
 
