@@ -1,7 +1,9 @@
 ---
 title: "Millisecond Pulsars: Celestial Lighthouses & Cosmic Timekeepers"
-excerpt: "An essay on millisecond pulsars. <br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/msp_system.png'>"
 collection: portfolio
 ---
 
-![Space Vampires talk](mspessay.pdf)
+
+An essay I wrote to describe the history of the discovery of pulsars, how they are formed, and what humanity could use them for in the future.
+<p><a href="/images/mspessay.pdf" class="button primary large" style="background-color:#A99653" target='_blank'><font color="#000">Click here for the essay.</font></a></p>
