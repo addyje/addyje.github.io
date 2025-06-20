@@ -5,5 +5,4 @@ collection: portfolio
 ---
 
 
-<embed src="spacevampires.pdf" width="500" height="375" 
- type="application/pdf">
+<a href="spacevampires.pdf" class="image fit"><img src="title_sv.png" alt=""></a>
