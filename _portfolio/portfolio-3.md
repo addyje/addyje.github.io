@@ -1,6 +1,6 @@
 ---
 title: "Measuring the mass of the Milky Way's supermassive black hole"
-excerpt: "<br/><img src='/images/sv_title.png'>"
+excerpt: "<br/><img src='/images/linreg.png'>"
 collection: portfolio
 ---
 

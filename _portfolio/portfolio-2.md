@@ -1,6 +1,6 @@
 ---
 title: "Millisecond Pulsars: Celestial Lighthouses & Cosmic Timekeepers"
-excerpt: "<br/><img src='/images/msp_system.png'>"
+excerpt: "<br/><img src='/images/msptile.png'>"
 collection: portfolio
 ---
 

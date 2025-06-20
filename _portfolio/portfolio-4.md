@@ -1,6 +1,6 @@
 ---
 title: "Circus Celestia"
-excerpt: "<br/><img src='/images/sv_title.png'>"
+excerpt: "<br/><img src='/images/hst.jpeg'>"
 collection: portfolio
 ---
 
