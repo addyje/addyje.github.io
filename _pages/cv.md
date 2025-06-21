@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+
+<p><a href="/images/resume_basic.pdf" class="button primary large" style="background-color:#A99653" target='_blank'><font color="#000">Click here for my resume.</font></a></p>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy, Texas A&M University, May 2024
+* M.S. in Astronomy, Texas A&M University, December 2021
+* B.S. in Physics, Oklahoma State University, May 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2024 - Present
+  * Postdoctoral researcher at the Naval Research Laboratory
+  * Washington, D.C.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2024 - August 2024
+  * Postdoctoral researcher at Texas A&M University
+  * College Station, TX
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2019 - May 2024
+  * Graduate research and teaching assistant
+  * College Station, TX
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* August 2016 - July 2019
+  * Undergraduate teaching assistant and tutor
+  * Stillwater, OK
+
+
