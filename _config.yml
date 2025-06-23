@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Dr. Addy J. Evans"
+title                    : "Addy J. Evans, PhD"
 title_separator          : "-"
 name                     : &name "Addy Evans"
 description              : &description "science educator & astronomer"
